@@ -23,13 +23,13 @@ REST‑API для управления вопросами и ответами (F
 ## Установка и запуск
 
 1. **Клонируйте репозиторий:**
-   ```bash
+   ```bash```
    git clone https://github.com/<ваш-аккаунт>/API_FAQ.git
    cd API_FAQ
-
+   
 2. **Запустите контейнеры:**
-  ```bash
-  docker-compose up -d
-
+   ```bash```
+   docker-compose up -d
+  
 3. **Проверка работы**
-  http://localhost:8000/docs
+   Ссылка http://localhost:8000/docs
